@@ -1,3 +1,7 @@
+#EL CODIGO ESTÁ MÁS QUE COMENTADO, IGUAL CUALQUIER DUDA O SUGERENCIA ME DICE, PERO TODAS LAS OPCIONES FUNCIONAN
+#SOBRE LAS FUNCIONES HICE SOLO DOS, PORQUE DESPUES SOLO LLAMO A LOS VALORES OBTENIDOS EN LA EJECUCIÓN DE CADA UNA DE ELLAS
+#DEJEN MI CODIGO EN SECRETO UWU
+
 #Ejercicio Prueba 3 Menu + Funciones#
 def imprimir_asientos(escenario, numero_filas): #Dos parametros escenario que es la lista de elementos y numero de filas que indica la forma en que se van a distribuir
     asientos = [] #Lista para almacenar los asientos con el número o con una X dependiendo el caso
